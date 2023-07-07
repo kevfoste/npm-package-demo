@@ -7,7 +7,8 @@
     "registry": "https://npm.pkg.github.com/@kevfoste"
   },
   "scripts": {
-    "test": "echo hello test"
+    "test": "echo hello test",
+    "start": "nodemon index.js"
   },
   "keywords": [],
   "author": "Kevin Foster",
